@@ -14,14 +14,14 @@ SQL Server or a compatible SQL Server instance
 Visual Studio or another compatible IDE
 Clone the Repository
 bash
-Copy code
+
 git clone https://github.com/sagar-design/WebAPICrudEFCore.git
 cd WebAPICrudEFCore
 Configuration
 Update Connection String: Open appsettings.json and update the DefaultConnection string with your SQL Server instance and database name.
 
 json
-Copy code
+
 "ConnectionStrings": {
   "DefaultConnection": "Server=your_server_name;Database=your_database_name;Trusted_Connection=True;"
 }
