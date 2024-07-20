@@ -70,3 +70,7 @@ Thanks to the .NET and EF Core communities for their tools and libraries. Specia
 ### Key Updates:
 - **Scaffold Command**: Added details on how to use the scaffold command to create the `DbContext` and entity classes.
 - **Running Locally**: Added instructions on how to set up and run the project on another system.
+
+
+![Screenshot 2024-07-20 125415](https://github.com/user-attachments/assets/8e1417a7-fe35-4357-a6b2-fe793a269ce7)
+
