@@ -1,0 +1,6 @@
+@VizippAssignmentCode_HostAddress = http://localhost:5169
+
+GET {{VizippAssignmentCode_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
